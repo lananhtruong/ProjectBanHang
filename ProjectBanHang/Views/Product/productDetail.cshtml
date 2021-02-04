@@ -1,0 +1,70 @@
+﻿@model ProjectBanHang.Models.Product
+@{
+    ViewBag.Title = "productDetail";
+}
+
+<h2>ProductDetail</h2>
+
+
+<div id="content" class="float_r">
+    @*<h1>Product Detail</h1>*@
+    <div class="content_half float_l">
+        <a rel="lightbox[portfolio]" href="images/product/10_l.jpg"><img src="@Model.Hinh" alt="image" width="250" height="350"></a>
+    </div>
+    <div class="content_half float_r">
+        <table>
+            <tbody>
+                <tr>
+                    <td width="160">Giá gốc</td>
+                    <td>@Model.GiaBan</td>
+                </tr>
+                <tr>
+                    <td>Tên sản phẩm</td>
+                    <td>@Model.TenSP</td>
+                </tr>
+                <tr>
+                    <td>Size:</td>
+                    <td>@Model.Size</td>
+                </tr>
+                <tr>
+                    <td>Số lượng</td>
+                    <td><input type="text" value="1" style="width: 20px; text-align: right"></td>
+                </tr>
+            </tbody>
+        </table>
+        <div class="cleaner h20"></div>
+
+        <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model.IDSP})" class="addtocart"></a>
+
+    </div>
+    <div class="cleaner h30"></div>
+
+    <h5>Mô tả</h5>
+    <p>@Model.MoTa</p>
+
+    <div class="cleaner h50"></div>
+
+    <h3>Related Products</h3>
+    <div class="product_box">
+        <a href="productdetail.html"><img src="https://gumac.vn/image/thang120springtime/ms80311220190908299982.jpg?width=450" alt=""width="100" height="130"></a>
+        <h3>Đầm bẹt vai đính hoa</h3>
+        <p class="product_price">495.000 VND</p>
+        <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model.IDSP})" class="addtocart"></a>
+        <a href="@Url.Action("productDetail","Product", new { proid=Model.IDSP})" class="detail"></a>
+    </div>
+    <div class="product_box">
+        <a href="productdetail.html"><img src="https://gumac.vn/image/thang1209/at33xr061220191058045170.jpg?width=450" alt=""width="100" height="130" /></a>
+        <h3>Áo xoắn eo tay ngắn</h3>
+        <p class="product_price">160.000 VND</p>
+        <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model.IDSP})" class="addtocart"></a>
+        <a href="@Url.Action("productDetail","Product", new { proid=Model.IDSP})" class="detail"></a>
+    </div>
+    <div class="product_box no_margin_right">
+        <a href="productdetail.html"><img src="http://giaybom.com/image/giaythethao/b950/b95035070120201602549213.jpg?width=750&amp;format=jpeg" alt="" width="100" height="130" /></a>
+        <h3>Giày thể thao B950</h3>
+        <p class="product_price">355.000 VND</p>
+        <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model.IDSP})" class="addtocart"></a>
+        <a href="@Url.Action("productDetail","Product", new { proid=Model.IDSP})" class="detail"></a>
+    </div>
+</div>
+

@@ -1,0 +1,11 @@
+﻿
+@model List<ProjectBanHang.Models.DanhMucSanPham>
+
+    <ul class="sidebar_list">
+        @foreach (var dmsp in Model)
+        {
+            @*<li><a href="/Product/listPro/@dmsp.IDDM">@dmsp.TenDM</a></li>*@
+            <li>@Html.ActionLink(dmsp.TenDM, "listPro","Product",new { dmid= dmsp.IDDM},null)
+        </li>
+        }
+    </ul>

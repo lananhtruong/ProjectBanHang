@@ -1,0 +1,74 @@
+﻿@*@{
+        ViewBag.Title = "listPro";
+    }*@
+@model List<ProjectBanHang.Models.Product>
+
+<h2>Products</h2>
+@for (int i = 1; i <= Model.Count; i++)
+{
+    if (i % 3 == 1)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="40%" height="60%"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+    }
+    else if (i % 3 == 1 && i == Model.Count)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="40%" height="60%"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+    }
+    else if (i % 3 == 2)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="40%" height="60%"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+
+    }
+    else if (i % 3 == 2 && i == Model.Count)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="40%" height="60%"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+
+    }
+    else
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="40%" height="60%"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+    }
+
+}
+
+

@@ -1,0 +1,574 @@
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+C:\Users\truon\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+C:\Users\Admin\Downloads\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\LapTrinhWeb\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll.config
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\ProjectBanHang.pdb
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.exe.config
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csc.rsp
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.exe.config
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\csi.rsp
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.AppContext.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Collections.Immutable.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Console.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Globalization.Calendars.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Http.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Net.Sockets.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Reflection.Metadata.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.ValueTuple.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.exe.config
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\vbc.rsp
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\roslyn\VBCSCompiler.exe.config
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Microsoft.Web.Infrastructure.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\WebGrease.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\EntityFramework.SqlServer.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Helpers.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Mvc.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Optimization.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.Razor.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Deployment.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\System.Web.WebPages.Razor.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Newtonsoft.Json.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Antlr3.Runtime.pdb
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csprojAssemblyReference.cache
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.csproj.CopyComplete
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.dll
+D:\Du lieu o C\HoaSen\Năm ba\LapTrinhWeb\ProjectBanHang\ProjectBanHang\obj\Debug\ProjectBanHang.pdb

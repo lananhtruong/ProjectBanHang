@@ -1,0 +1,109 @@
+﻿@model ProjectBanHang.Models.RegisterModel
+@{
+    ViewBag.Title = "Register";
+}
+
+<h2>Register</h2>
+@using (Html.BeginForm("Register", "User", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+{
+
+    @*@Html.ValidationSummary("", new { @class = "text-danger" })*@
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.name, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.name, new { @class = "form-control" })
+            </div>
+            @Html.ValidationMessageFor(m => m.name, "", new { @class = "text-danger" })
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.address, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.address, new { @class = "form-control" })
+            </div>
+            @Html.ValidationMessageFor(m => m.address, "", new { @class = "text-danger" })
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.email, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.email, new { @class = "form-control" })
+            </div>
+            @Html.ValidationMessageFor(m => m.email, "", new { @class = "text-danger" })
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.phonenumber, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.phonenumber, new { @class = "form-control" })
+            </div>
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.username, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.username, new { @class = "form-control" })
+            </div>
+            @Html.ValidationMessageFor(m => m.username, "", new { @class = "text-danger" })
+
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.password, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.password, new { @class = "form-control" })
+            </div>
+            @Html.ValidationMessageFor(m => m.password, "", new { @class = "text-danger" })
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            @Html.LabelFor(m => m.confirmpassword, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.confirmpassword, new { @class = "form-control" })
+            </div>
+            @Html.ValidationMessageFor(m => m.confirmpassword,"", new { @class = "text-danger" }) 
+
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <div class="form-group">
+        <center>
+            <div class="col-md-offset-2 col-md-10">
+                <br />
+                <input type="submit" class="btn btn-default" value="Sign up" />
+            </div>
+        </center>
+    </div>
+
+    <div class="cleaner_with_height">&nbsp;</div>
+
+    <br />
+    <h3><font size="3" color="blue">@ViewBag.dangkythanhcong</font></h3>
+}

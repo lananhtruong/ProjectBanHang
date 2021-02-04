@@ -1,0 +1,140 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+
+}
+
+@model List<ProjectBanHang.Models.Product>
+
+<div id="slider-wrapper">
+    <div id="slider" class="nivoSlider">
+        <img src="https://suno.vn/blog/wp-content/uploads/2017/11/Top-5-x%C6%B0%E1%BB%9Fng-may-qu%E1%BA%A7n-%C3%A1o-r%E1%BA%BB-v%C3%A0-uy-t%C3%ADn-nh%E1%BA%A5t-TP.HCM-05-e1509684455474.jpg" alt="" />
+        <a href="#"><img src="~/images/slider/01.jpg" alt="" title="This is an example of a caption" /></a>
+        <img src="~/images/slider/03.jpg" alt="" />
+        <img src="~/images/slider/04.jpg" alt="" title="#htmlcaption" />
+    </div>
+    <div id="htmlcaption" class="nivo-html-caption">
+        <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+    </div>
+</div>
+@*<div id="slider-wrapper">
+        <div id="slider" class="nivoSlider" style="position: relative; width: 680px; background: url(&quot;images/slider/02.jpg&quot;) no-repeat;">
+            <img src="https://suno.vn/blog/wp-content/uploads/2017/11/Top-5-x%C6%B0%E1%BB%9Fng-may-qu%E1%BA%A7n-%C3%A1o-r%E1%BA%BB-v%C3%A0-uy-t%C3%ADn-nh%E1%BA%A5t-TP.HCM-05-e1509684455474.jpg" alt="" style="display: none;">
+            <a href="#" class="nivo-imageLink" style="display: block;"><img src="~/images/slider/01.jpg" alt="" title="This is an example of a caption" style="display: none;"></a>
+            <img src="https://suno.vn/blog/wp-content/uploads/2017/11/Top-5-x%C6%B0%E1%BB%9Fng-may-qu%E1%BA%A7n-%C3%A1o-r%E1%BA%BB-v%C3%A0-uy-t%C3%ADn-nh%E1%BA%A5t-TP.HCM-05-e1509684455474.jpg" alt="" style="display: none;">
+            <img src="~/images/slider/04.jpg" alt="" title="#htmlcaption" style="display: none;">
+            <div class="nivo-slice" style="width: 680px; height: 100%; opacity: 1; background: url(&quot;images/slider/01.jpg&quot;) 0px 0% no-repeat; top: 0px; bottom: 0px; left: 0px;"></div><div class="nivo-slice" style="left: 45px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -45px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 90px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -90px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 135px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -135px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 180px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -180px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 225px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -225px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 270px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -270px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 315px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -315px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 360px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -360px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 405px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -405px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 450px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -450px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 495px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -495px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 540px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -540px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 585px; width: 45px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -585px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-slice" style="left: 630px; width: 50px; height: 0px; opacity: 0; background: url(&quot;images/slider/01.jpg&quot;) -630px 0% no-repeat; top: 0px; bottom: 0px;"></div><div class="nivo-caption" style="opacity: 0.8; display: block;"><p>This is an example of a caption</p></div><div class="nivo-directionNav" style="display: none;"><a class="nivo-prevNav">Prev</a><a class="nivo-nextNav">Next</a></div><div class="nivo-controlNav"><a class="nivo-control" rel="0">1</a><a class="nivo-control active" rel="1">2</a><a class="nivo-control" rel="2">3</a><a class="nivo-control" rel="3">4</a></div>
+        </div>
+        <div id="htmlcaption" class="nivo-html-caption">
+            <strong>This</strong> is an example of a <em>HTML</em> caption with <a href="#">a link</a>.
+        </div>
+    </div>*@
+<script type="text/javascript" src="~/js/jquery-1.4.3.min.js"></script>
+<script type="text/javascript" src="~/js/jquery.nivo.slider.pack.js"></script>
+<script type="text/javascript">
+    $(window).load(function () {
+        $('#slider').nivoSlider();
+    });
+</script>
+@*<h1 style="float:right">@Session["Logged"]</h1>*@
+@*<div class="product_box">
+        <h3>Ut eu feugiat</h3>
+        <a href="productdetail.html"><img src="~/images/product/01.jpg" alt="Shoes 1"></a>
+        <p>Nulla rutrum neque vitae erat condimentum eget malesuada.</p>
+        <p class="product_price">$ 100</p>
+        <a href="shoppingcart.html" class="addtocart"></a>
+        <a href="productdetail.html" class="detail"></a>
+    </div>
+    <div class="product_box">
+        <h3>Curabitur et turpis</h3>
+        <a href="productdetail.html"><img src="~/images/product/02.jpg" alt="Shoes 2"></a>
+        <p>Sed congue, erat id congue vehicula. Validate <a href="http://validator.w3.org/check?uri=referer" rel="nofollow">XHTML</a> &amp; <a href="http://jigsaw.w3.org/css-validator/check/referer" rel="nofollow">CSS</a>.</p>
+        <p class="product_price">$ 80</p>
+        <a href="shoppingcart.html" class="addtocart"></a>
+        <a href="productdetail.html" class="detail"></a>
+    </div>
+    <div class="product_box no_margin_right">
+        <h3>Mauris consectetur</h3>
+        <a href="productdetail.html"><img src="~/images/product/03.jpg" alt="Shoes 3"></a>
+        <p>Morbi non risus vitae est vestibulum tincidunt ac eget metus.</p>
+        <p class="product_price">$ 60</p>
+        <a href="shoppingcart.html" class="addtocart"></a>
+        <a href="productdetail.html" class="detail"></a>
+    </div>*@
+
+@*<div class="cleaner"></div>*@
+
+@for (int i = 1; i <= Model.Count; i++)
+{
+    if (i % 3 == 1)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="100" height="130"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+    }
+    else if (i % 3 == 1 && i == Model.Count)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="100" height="130"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+    }
+    else if (i % 3 == 2)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="100" height="130"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+
+    }
+    else if (i % 3 == 2 && i == Model.Count)
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="100" height="130"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+
+    }
+    else
+    {
+        <div class="product_box">
+            <h3>@Model[i - 1].TenSP</h3>
+            <a href="productdetail.html"><img src="@Model[i-1].Hinh" alt=# width="100" height="130"></a>
+            <p>@Model[i - 1].MoTa</p>
+            <p class="product_price">@Model[i - 1].GiaBan VND</p>
+            <a href="@Url.Action("AddtoCart","Cart",new { SPID = Model[i-1].IDSP})" class="addtocart"></a>
+            <a href="@Url.Action("productDetail","Product", new { proid=Model[i-1].IDSP})" class="detail"></a>
+            <div class="cleaner"></div>
+        </div>
+    }
+}
+
+
+@*<ul>
+        @foreach(var pro in Model)
+        {
+            <li>@pro.TenSP</li>
+            <img src="@pro.Hinh" width="350"height="450" />
+            <br />
+        }
+    </ul>*@
